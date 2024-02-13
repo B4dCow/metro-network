@@ -1,9 +1,8 @@
-# metro-network
-
+# Fork of metro-network
 [![Build Status](https://travis-ci.org/ho9science/subway-line-graph.png?branch=master)](https://travis-ci.org/ho9science/subway-line-graph)
 
 metro-network is a python library for making graph model of subway line map using open data.
-
+This fork integrates some additional functionalities such as the metro network of Paris and an update of the function 
 metro-network는 공공데이터 포털에서 제공하는 지하철 노선 정보를 활용해 만든 그래프 모델을 만들 수 있는 파이썬 라이브러리입니다.
 
 ### dataset
